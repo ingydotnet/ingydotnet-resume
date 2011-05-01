@@ -25,7 +25,7 @@ mail:
     | 1122 E Pike St #721
     | Seattle, WA 98122
 
-0bjective
+Objective
 ---------
 
 I am seeking a fulltime position as a software engineer for a company that
