@@ -1,18 +1,17 @@
 Ingy döt Net
 ------------
 
-Greetings! My name is **Ingy döt Net**. I am a software artist and inventor.
-My mission in life is to see computers solving the real world problems that we
-humans find ourselves faced with today. To that end, I continually look for
-new ideas to make developing software simpler, while searching for more ways
-to evangelize and socialize those ideas.
+Greetings! My name is `Ingy döt Net <http://ingy.net>`_. I am a software
+artist and inventor. My mission in life is to see computers solving the real
+world problems that we humans find ourselves faced with today. To that end, I
+continually look for new ideas to make developing software simpler, while
+searching for more ways to evangelize and socialize those ideas.
 
 With over 20 years of work experience, I have been a vocal leader in **Open
 Source Software** for the last 10. I love solving problems in ways that
 benefit not only my current task, but the art of programming in general. I
-take the most pride in my works that help people in many programming
-languages at once.  I've coined this effort, **Acmeism**
-(http://acmeism.org).
+take the most pride in my works that help people in many programming languages
+at once.  I've coined this effort, **Acmeism** (http://acmeism.org).
 
 Contact Information
 -------------------
