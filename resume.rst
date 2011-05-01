@@ -121,6 +121,6 @@ assembly language.
 Education
 ---------
 
-|B.A. Computer Science, 1987
-|Northern Illinois University 
+| B.A. Computer Science, 1987
+| Northern Illinois University 
 
