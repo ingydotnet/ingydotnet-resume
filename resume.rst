@@ -3,14 +3,14 @@ Ingy döt Net
 
 Greetings! My name is `Ingy döt Net <http://ingy.net>`_. I am a software
 artist and inventor. My mission in life is to see computers solving the real
-world problems that we humans find ourselves faced with today. To that end, I
-continually look for new ideas to make developing software simpler, while
-searching for more ways to evangelize and socialize those ideas.
+world problems that we humans face today. To that end, I continually look for
+new ideas to make software development simpler, while searching for more ways
+to socialize those ideas.
 
 With over 20 years of work experience, I have been a vocal leader in **Open
 Source Software** for the last 10. I love solving problems in ways that
 benefit not only my current task, but the art of programming in general. I
-take the most pride in my works that help people in many programming languages
+take the most pride in my works that help people of many programming languages
 at once.  I've coined this effort, **Acmeism** (http://acmeism.org).
 
 Contact Information
@@ -30,9 +30,9 @@ Objective
 I am seeking a fulltime position as a software engineer for a company that
 embraces Open Source technologies, and applies agile development techniques. I
 desire to work primarily as a telecommuter, in constant communication with a
-great team who deliver innovative software on time. As a prolific inventor of
-open technology, I need to be permitted to publish my generic software ideas
-as Open Source modules and libraries.
+solid team who can deliver innovative software on time. As a prolific inventor
+of open technology, I will require permission to publish my generic software
+ideas as Open Source modules and libraries.
 
 Passions
 --------
@@ -57,7 +57,7 @@ Career Highlights
 
 * Inventor of YAML - the human friendly data format for all languages
 * Opening Keynote Speaker @ OSDC 2010 in Melbourne
-* Speaker at dozens of OSCON, OSDC and YAPC conferences worldwide since 2000
+* Speaker at many OSCON, OSDC and YAPC type conferences worldwide
 * Prolific module author for Perl (CPAN), Python (PyPI), Perl 6 and even Bash
 * Creator of Kwiki - A once popular wiki in the Perl community
 * First lead developer @ Socialtext, the Enterprise Social Software company
