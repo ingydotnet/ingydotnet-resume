@@ -1,12 +1,17 @@
 .PHONY: clean
 
+default: clean all
+
 all: index.html
 
 index.html: resume.html
-	ln -s $< $@
+	ln -fs $< $@
 
 %.html: %.rst
-	rst2html $< > $*
+	rst2html --link-stylesheet --stylesheet-path=$*.css $< > $@
+
+test: all
+	firefox index.html
 
 clean:
-	rm *.html
+	rm -f *.html

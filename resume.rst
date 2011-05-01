@@ -1,17 +1,18 @@
-Greetings
----------
+Ingy döt Net
+------------
 
-My name is Ingy döt Net. I am a software artist and inventor. My mission in
-life is to see computers solving the real world problems that humans find
-themselves faced with today. To that end, I continually look for new ideas to
-make developing software simpler, while simultaneously searching for more ways
+Greetings! My name is **Ingy döt Net**. I am a software artist and inventor.
+My mission in life is to see computers solving the real world problems that we
+humans find ourselves faced with today. To that end, I continually look for
+new ideas to make developing software simpler, while searching for more ways
 to evangelize and socialize those ideas.
 
-With over 20 years of work experience, I have been a vocal leader in Open
-Source Software for the last 10. I love solving problems in ways that benefit
-not only my current task, but the art of programming in general. I take the
-most pride in my works that help people in many programming languages at once.
-I've coined this effort, Acmeism (http://acmeism.org).
+With over 20 years of work experience, I have been a vocal leader in **Open
+Source Software** for the last 10. I love solving problems in ways that
+benefit not only my current task, but the art of programming in general. I
+take the most pride in my works that help people in many programming
+languages at once.  I've coined this effort, **Acmeism**
+(http://acmeism.org).
 
 Contact Information
 -------------------
@@ -21,8 +22,8 @@ email:
 aim, skype, twitter:
     ingydotnet
 mail:
-    1122 E Pike St #721
-    Seattle, WA 98122
+    | 1122 E Pike St #721
+    | Seattle, WA 98122
 
 0bjective
 ---------
@@ -30,7 +31,7 @@ mail:
 I am seeking a fulltime position as a software engineer for a company that
 embraces Open Source technologies, and applies agile development techniques. I
 desire to work primarily as a telecommuter, in constant communication with a
-great team who delivers innovative software on time. As a prolific inventor of
+great team who deliver innovative software on time. As a prolific inventor of
 open technology, I need to be permitted to publish my generic software ideas
 as Open Source modules and libraries.
 
@@ -46,12 +47,14 @@ Data:
 Social:
     Acmeism, Wiki, GitHub, XLog
 Favorite Tools:
-    Git, Firebug, TT2, make (really!)
+    Vim, Git, Screen, Plack, Firebug, TT2, GNU Make
 Privacy:
-    SSL, Tor
+    SSL, Tor, OTR, eCryptfs
+Offline:
+    Travel, Bicycle Racing, 中文/國語
 
-Career Hilights
----------------
+Career Highlights
+-----------------
 
 * Inventor of YAML - the human friendly data format for all languages
 * Opening Keynote Speaker @ OSDC 2010 in Melbourne
@@ -67,7 +70,7 @@ Employment History
 2009 - 2011: Oui Code Software, LLC - Seattle, WA
 =================================================
 
-My personal consulting business. Contracts include work for Strategic Data, Inc.
+My personal consulting business. Customers include Strategic Data, Inc.
 
 2003 - 2009: Socialtext, Inc - Palo Alto, CA
 ============================================
@@ -123,4 +126,7 @@ Education
 
 | B.A. Computer Science, 1987
 | Northern Illinois University 
+
+.. NOTE::
+   The complete source code for this resume can be found at https://github.com/ingydotnet/ingydotnet-resume
 
