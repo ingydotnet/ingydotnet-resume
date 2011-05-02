@@ -57,7 +57,7 @@ Career Highlights
 
 * Inventor of YAML - the human friendly data format for all languages
 * Opening Keynote Speaker @ OSDC 2010 in Melbourne
-* Speaker at many OSCON, OSDC and YAPC type conferences worldwide
+* Regular speaker at OSCON, OSDC and YAPC type conferences worldwide since 2000
 * Prolific module author for Perl (CPAN), Python (PyPI), Perl 6 and even Bash
 * Creator of Kwiki - A once popular wiki in the Perl community
 * First lead developer @ Socialtext, the Enterprise Social Software company
