@@ -11,7 +11,7 @@ With over 20 years of work experience, I have been a vocal leader in **Open
 Source Software** for the last 10. I love solving problems in ways that
 benefit not only my current task, but the art of programming in general. I
 take the most pride in my works that help people of many programming languages
-at once.  I've coined this effort, **Acmeism** (http://acmeism.org).
+at once.  I've coined this effort: `Acmeism <http://acmeism.org>`_.
 
 Contact Information
 -------------------
