@@ -13,5 +13,5 @@ index.html: resume.html
 test: all
 	firefox index.html
 
-clean:
+clean purge:
 	rm -f *.html
