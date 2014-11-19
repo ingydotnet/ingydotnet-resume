@@ -33,7 +33,7 @@ Open Source modules and libraries.
 
 - Language :: Perl, JavaScript, Ruby, Python, Perl 6, Bash, GoLang
 - Web :: PSGI, jQuery, AJAX, Jemplate, Swim
-- Data :: YAML, JSON, JOSNY, JSYNC, CogDB
+- Data :: YAML, JSON, JSONY, JSYNC, CogDB
 - Social :: Acmeism, Wiki, GitHub, CogWebs
 - Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make
 - Privacy :: SSL, Tor, OTR, eCryptfs
@@ -63,8 +63,6 @@ Open Source modules and libraries.
   * Received a "Perl Foundation grant for Inline::Module"[http://news.perlfoundation.org/2014/09/grant-proposal-inlinecpp-modul.html]
 * September - Speaker at "Salt Lake Perl Mongers meeting"[http://saltlake.pm.org/past.html]
 * August - Set all time record for "most CPAN releases in a day"[http://blogs.perl.org/users/ingy_dot_net/2014/08/cpan-day---317-uploads-and-21-guns.html]
-
-
 
 = Employment History
 

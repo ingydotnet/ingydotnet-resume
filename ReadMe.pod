@@ -62,7 +62,7 @@ PSGI, jQuery, AJAX, Jemplate, Swim
 
 =item Data
 
-YAML, JSON, JOSNY, JSYNC, CogDB
+YAML, JSON, JSONY, JSYNC, CogDB
 
 =item Social
 
@@ -134,7 +134,6 @@ Travel, Bicycle Racing, 中文/國語
 =item * September - Speaker at L<Salt Lake Perl Mongers meeting|http://saltlake.pm.org/past.html>
 
 =item * August - Set all time record for L<most CPAN releases in a day|http://blogs.perl.org/users/ingy_dot_net/2014/08/cpan-day---317-uploads-and-21-guns.html>
-
 
 =back
 
