@@ -139,7 +139,7 @@ Travel, Bicycle Racing, 中文/國語
 
 =head1 Employment History
 
-=head2 2104: Oui Street LLC - Seattle, WA
+=head2 2014: Oui Street LLC - Seattle, WA
 
 A consulting partnership with L<Andrew Cole|http://aocole.net/resume>.
 
