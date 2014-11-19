@@ -141,7 +141,7 @@ Travel, Bicycle Racing, 中文/國語
 
 =head2 2014: Oui Street LLC - Seattle, WA
 
-A consulting partnership with L<Andrew Cole|http://aocole.net/resume>.
+A consulting partnership with L<Andrew Cole|http://aocole.net>.
 
 =head2 2009 - 2013: Oui Code Software, LLC - Seattle, WA
 
