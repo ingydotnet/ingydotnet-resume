@@ -1,0 +1,130 @@
+= Ingy döt Net
+
+Greetings! My name is "Ingy döt Net"[http://ingy.net]. I am a software artist
+and inventor. My mission in life is to see computers solving the real world
+problems that we humans face today. To that end, I continually look for new
+ideas to make software development simpler, while searching for more ways to
+socialize those ideas.
+
+With over 25 years of work experience, I have been a vocal leader in *Open
+Source Software* for the last 15. I love solving problems in ways that benefit
+not only my current task, but the art of programming in general. I take the
+most pride in my works that help people of many programming languages at once.
+I've coined this effort: "Acmeism"[http://acmeism.org].
+
+= Contact Information
+
+- *email* :: `ingy@oui.st`
+- *github, twitter, skype* :: `ingydotnet`
+- *mail*
+    1122 E Pike St #721
+    Seattle, WA 98122
+
+= Objective
+
+I am seeking contract work as a software engineer for a company that embraces
+Open Source technologies, and applies agile development techniques. I desire to
+work primarily as a telecommuter, in constant communication with a solid team
+who can deliver innovative software on time. As a prolific inventor of open
+technology, I will require permission to publish my generic software ideas as
+Open Source modules and libraries.
+
+= Passions
+
+- Language :: Perl, JavaScript, Ruby, Python, Perl 6, Bash, GoLang
+- Web :: PSGI, jQuery, AJAX, Jemplate, Swim
+- Data :: YAML, JSON, JOSNY, JSYNC, CogDB
+- Social :: Acmeism, Wiki, GitHub, CogWebs
+- Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make
+- Privacy :: SSL, Tor, OTR, eCryptfs
+- Cloud :: PaaS, IaaS, OpenStack
+- Offline :: Travel, Bicycle Racing, 中文/國語
+
+= Career Highlights
+
+* Inventor of YAML - The human friendly data format for all languages
+* Creator of Pegex - PEG parsing framework for all languages
+* Creator of 2 popular git commands - `git hub` and `git subrepo`
+* Father of Acmeism - Philosophy of pushing all languages forward simultaneously
+* Opening Keynote Speaker @ OSDC 2010 in Melbourne
+* Regular speaker at OSCON, OSDC and YAPC type conferences worldwide since 2000
+* Prolific module author for Perl (CPAN), Ruby (RubyGems), Node.js (NPM),
+  Python (PyPI), Perl 6 and even Bash
+* Creator of Kwiki - A once popular wiki in the Perl community
+* First lead developer @ Socialtext, the Enterprise Social Software company
+* Invented Inline.pm - Bind C, C++ and 20+ other languages to Perl
+* My first computer science class was Fortran on punchcards!
+
+= 2014 News
+
+* November - "Opening Speaker at 2014 Pittsburgh Perl Workshop"[https://www.youtube.com/watch?v=vDRLIjojlhg]
+* October
+  * First CPAN author to upload "1000 releases in a year"[http://blogs.perl.org/users/ingy_dot_net/2014/10/a-grand-2014.html]
+  * Received a "Perl Foundation grant for Inline::Module"[http://news.perlfoundation.org/2014/09/grant-proposal-inlinecpp-modul.html]
+* September - Speaker at "Salt Lake Perl Mongers meeting"[http://saltlake.pm.org/past.html]
+* August - Set all time record for "most CPAN releases in a day"[http://blogs.perl.org/users/ingy_dot_net/2014/08/cpan-day---317-uploads-and-21-guns.html]
+
+
+
+= Employment History
+
+== 2104: Oui Street LLC - Seattle, WA
+
+A consulting partnership with "Andrew Cole"[http://aocole.net/resume].
+
+== 2009 - 2013: Oui Code Software, LLC - Seattle, WA
+
+A personal consulting business.
+
+== 2003 - 2009: Socialtext, Inc - Palo Alto, CA
+
+Lead Developer. Socialtext is the original Enterprise Social Software company.
+Helped develop Socialtext's enterprise wiki platform, which was also released
+as Open Source software. Worked primarily on the WYSIWYG, web browser based,
+content editor component. Released many Open Source Perl and JavaScript
+modules. Over 5 years of fulltime telecommute-only software development.
+
+== 2002 - 2003: Onyx Neon - Portland, OR
+
+Independent Software Consultant. Perl consulting for local small businesses.
+Worked on many Open Source projects. Wrote articles for Perl magazines.
+
+== 2002 - 2002: Databuilt, Inc - Bluffton, SC
+
+Software Engineer. Databuilt was the first company that attempted to automate
+the construction industry. Wrote Perl code for their mainline product.
+
+== 2001 - 2002: FatPort, Inc - Vancouver, BC
+
+CTO. Fatport was Canada's first public wifi vendor. I started this company and
+developed the initial access point system.
+
+== 2000 - 2001: ActiveState - Vancouver, BC
+
+Software Developer. ActiveState is the company well known for putting Perl on
+Windows. Developed the Perl Module distribution automation system for their
+product, ActivePerl.
+
+== 1989 - 2000: NOTIS\/Ameritech\/epixtech\/Dynix - Evanston, IL
+
+Computer Programmer. This company was a leader in Library Automation Systems
+for the most prestigious universities East of the Mississippi. Developed
+various programs in IBM 370 mainframe assembly language. Switched to Perl in
+1998. Last 5 years was telecommute based.
+
+== 1988 - 1989: Allstate Insurance, Inc - Northbrook, IL
+
+Computer Programmer. My first and worst job in computers. Performed maintenance
+programming on their billing subsystem, in IBM 370 mainframe assembly language.
+
+= Education
+
+B.A. Computer Science, 1987
+
+Northern Illinois University
+
+= Notes
+
+* The complete source code for this resume can be found "here"[https://github.com/ingydotnet/ingydotnet-resume]
+* This resume was written in the Swim markup language which I created based on
+  the Pegex parser framework which I also created.
