@@ -11,6 +11,7 @@ customize this style sheet.
 
 body {
     background-color: #DCDCDC;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 div.content {

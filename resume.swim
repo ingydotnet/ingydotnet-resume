@@ -7,58 +7,60 @@ ideas to make software development simpler, while searching for more ways to
 socialize those ideas.
 
 With over 25 years of work experience, I have been a vocal leader in *Open
-Source Software* for the last 18. I love solving problems in ways that benefit
+Source Software* for the last 20. I love solving problems in ways that benefit
 not only my current task, but the art of programming in general. I take the
 most pride in my works that help people of many programming languages at once.
 I've coined this effort: "Acmeism"[http://acmeism.org].
 
 = Contact Information
 
-- *email* :: `ingy@oui.st`
-- *github, twitter, skype* :: `ingydotnet`
+- *"email"[mailto:ingy@ingy.net]* :: `ingy@ingy.net`
+- *"github"[http://github.com/ingydotnet], "twitter"[https://twitter.com/ingydotnet], "skype"[skype:ingydotnet?call]* :: `ingydotnet`
 - *mail*
     1122 E Pike St #721
     Seattle, WA 98122
 
 = Objective
 
-I am seeking contract work as a software engineer for a company that embraces
-Open Source technologies, and applies agile development techniques. I desire to
-work primarily as a telecommuter, in constant communication with a solid team
-who can deliver innovative software on time. As a prolific inventor of open
+I am seeking a full time position with a company that embraces Open Source
+technologies, and applies agile development techniques. I desire to work
+primarily as a telecommuter, in constant communication with a solid team who
+can deliver innovative software on time. As a prolific inventor of open
 technology, I will require permission to publish my generic software ideas as
 Open Source modules and libraries.
 
 = Passions
 
-- Language :: Perl, JavaScript, Ruby, Python, Perl 6, Bash, GoLang
-- Web :: PSGI, jQuery, AJAX, Jemplate, Swim
-- Data :: YAML, JSON, JSONY, JSYNC, CogDB
+- Language :: Perl, Python, JavaScript, Ruby, Perl 6, Bash, GoLang
+- Web :: CoffeeScript, WSGI, jQuery, AJAX, Jemplate
+- Data :: YAML, JSON, RDBMS, SchemaType
 - Social :: Acmeism, Wiki, GitHub, CogWebs
 - Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make
-- Privacy :: SSL, Tor, OTR, eCryptfs
-- Cloud :: PaaS, IaaS, OpenStack
+- Privacy :: SSL, Tor, OTR, Signal
+- Cloud :: Docker, PaaS, IaaS, OpenStack, Kubernetes
 - Offline :: Travel, Bicycle Racing, 中文/國語
 
 = Career Highlights
 
 * Inventor of YAML - The human friendly data format for all languages
 * Primary manager of the YAML language, projects and infrastructure
-* "Top 10 All Time CPAN Author"[http://thegestalt.org/simon/perl/wholecpan.html]
+* Creator of SchemaType - A YAML/JSON Schema language for generating software
 * Creator of Pegex - PEG parsing framework for all languages
 * Creator of 2 popular git commands - `git hub` and `git subrepo`
 * Father of Acmeism - Philosophy of pushing all languages forward simultaneously
 * Opening Keynote Speaker @ OSDC 2010 in Melbourne
 * Regular speaker at OSCON, OSDC and YAPC type conferences worldwide since 2000
-* Prolific module author for Perl (CPAN), Ruby (RubyGems), Node.js (NPM),
-  Python (PyPI), Perl 6 and even Bash
-* Creator of Kwiki - A once popular wiki in the Perl community
+* Prolific module author for Perl (CPAN), Python (PyPI), Ruby (RubyGems),
+  Node.js (NPM), Perl 6 and even Bash
+* "Top 10 All Time CPAN Author"[http://thegestalt.org/simon/perl/wholecpan.html]
+* Creator of Kwiki - A once popular wiki in the Perl community and used by OSCON
 * First lead developer @ Socialtext, the Enterprise Social Software company
 * Invented Inline.pm - Bind C, C++ and 20+ other languages to Perl
 * My first computer science class was Fortran on punchcards!
 
 = Recent News
 
+* August 2017 - Speaker at "Abstractions"[http://abstractions.io/]
 * January 2017 - Speaker at "Salt Lake Perl Mongers meeting"[http://saltlake.pm.org/]
 * August 2016 - Presented a popular talk about YAML at the "Abstractions Conference"[http://abstractions.io/]
 * Summer 2016 - Started the "SchemaType validation and code generation project"[http://schematype.org]
@@ -72,9 +74,10 @@ Open Source modules and libraries.
 
 = Employment History
 
-== 2017 - present: Oui Street LLC - Seattle, WA
+== 2017 - 2018: OpenResty, Inc
 
-My personal consulting business.
+Founding member of promising server technology company. Wrote compilers for
+several internal languages.
 
 == 2015 - 2016: Hewlett Packard Enterprise
 
