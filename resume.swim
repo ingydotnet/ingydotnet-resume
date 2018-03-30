@@ -1,10 +1,10 @@
 = Ingy döt Net
 
 Greetings! My name is "Ingy döt Net"[http://ingy.net]. I am a software artist
-and inventor. My mission in life is to see computers solving the real world
-problems that we humans face today. To that end, I continually look for new
-ideas to make software development simpler, while searching for more ways to
-socialize those ideas.
+and computer language inventor. My passion in life is to see computers solving
+the real world problems that society faces today. To that end, I continually
+look for new ideas to make software development simpler, while searching for
+more ways to socialize those ideas.
 
 With over 25 years of work experience, I have been a vocal leader in *Open
 Source Software* for the last 20. I love solving problems in ways that benefit
@@ -20,25 +20,37 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
     1122 E Pike St #721
     Seattle, WA 98122
 
-= Objective
+= Career Objective
 
-I am seeking a full time position with a company that embraces Open Source
-technologies, and applies agile development techniques. I desire to work
-primarily as a telecommuter, in constant communication with a solid team who
-can deliver innovative software on time. As a prolific inventor of open
-technology, I will require permission to publish my generic software ideas as
-Open Source modules and libraries.
+I'm one of the 3 original authors of the *YAML Data Language*, and the only one
+of those who continues to work on YAML daily. I see a future for YAML that
+builds on its current success while addressing its many pitfalls, and making it
+grow to solve more real world, every day needs.
+
+Cloud Computing has been my area of daily work for past 8 years. Recently I
+worked as a Distinguished Technologist at Hewlett Packard Enterprise's cloud
+division. While there I worked with OpenStack, Kubernetes, Cloud Foundry,
+Ansible, Concourse.ci, Swagger/OpenAPI; all of which used YAML!
+
+Cloud continues to rely more on YAML every day. YAML needs support as an
+industry language. I am ready, able and gungho to lead that effort.
+
+I am currently looking for employment at a forward-thinking company that uses
+YAML as a core part of their industry leading projects. I'd like to be able to
+help the company use YAML to its full potential; work with talented people who
+can help me shape the language; and lead the community effort to move it all
+forward.
 
 = Passions
 
-- Language :: Perl, Python, JavaScript, Ruby, Perl 6, Bash, GoLang
-- Web :: CoffeeScript, WSGI, jQuery, AJAX, Jemplate
-- Data :: YAML, JSON, RDBMS, SchemaType
-- Social :: Acmeism, Wiki, GitHub, CogWebs
+- Data :: YAML, JSON, SchemaType
+- Language :: Bash, GoLang, JavaScript, Perl, Python, Ruby
+- Web :: CoffeeScript, Vue, Jemplate
+- Social :: Acmeism, Wiki, GitHub
 - Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make
 - Privacy :: SSL, Tor, OTR, Signal
-- Cloud :: Docker, PaaS, IaaS, OpenStack, Kubernetes
-- Offline :: Travel, Bicycle Racing, 中文/國語
+- Cloud :: Docker, OpenStack, Kubernetes, Ansible, Swagger
+- Offline :: Travel, Bicycle Racing
 
 = Career Highlights
 
