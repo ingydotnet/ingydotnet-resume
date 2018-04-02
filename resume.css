@@ -10,7 +10,7 @@ customize this style sheet.
 */
 
 body {
-    background-color: #DCDCDC;
+    background-color: #EEE;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -33,9 +33,14 @@ h2 {
     margin-left: -20px;
 }
 
+strong a {
+    text-decoration: none;
+    color: black;
+}
+
 a {
     text-decoration: none;
-    color: blue;
+    color: brown;
 }
 
 a:hover {
