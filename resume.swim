@@ -44,7 +44,7 @@ forward.
 = Passions
 
 - Data :: YAML, JSON, SchemaType
-- Language :: Bash, GoLang, JavaScript, Perl, Python, Ruby
+- Language :: Perl, Python, Ruby, NodeJS, Bash, GoLang
 - Web :: CoffeeScript, Vue, Jemplate
 - Social :: Acmeism, Wiki, GitHub
 - Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make
@@ -70,9 +70,20 @@ forward.
 * Invented Inline.pm - Bind C, C++ and 20+ other languages to Perl
 * My first computer science class was Fortran on punchcards!
 
+= Open Source Projects
+
+* "YAML"[http://yaml.org] -- Data Language for all programming languages
+* "TestML[http://testml.org] -- Testing Language for all programming languages
+* "SchemaType"[http://schematype.org] -- Schema Language for all data languages
+* "Pegex"[http://pegex.org] -- Parser framework for all programming languages
+* "Jemplate"[http://jemplate.net] -- Template language for all programming languages
+* CafeScript -- CoffeeScript that compiles to all programming languages
+* Lingy -- Lisp-like language in JSON that runs in all programming languages
+
 = Recent News
 
-* August 2017 - Speaker at "Abstractions"[http://abstractions.io/]
+* June 2018 - Speaker at "The Perl Conference"[https://perlconference.us/tpc-2018-slc/]
+* June 2018 - Speaker at "OpenWest"[https://openwest.org/]
 * January 2017 - Speaker at "Salt Lake Perl Mongers meeting"[http://saltlake.pm.org/]
 * August 2016 - Presented a popular talk about YAML at the "Abstractions Conference"[http://abstractions.io/]
 * Summer 2016 - Started the "SchemaType validation and code generation project"[http://schematype.org]
@@ -103,7 +114,7 @@ on ActiveState's Stackato PaaS.
 
 == 2009 - 2013: Oui Code Software, LLC - Seattle, WA
 
-A personal consulting business.
+A personal consulting business. Worked on ActiveState's Stackato PaaS platform.
 
 == 2003 - 2009: Socialtext, Inc - Palo Alto, CA
 

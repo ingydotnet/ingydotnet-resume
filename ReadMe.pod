@@ -70,7 +70,7 @@ YAML, JSON, SchemaType
 
 =item Language
 
-Bash, GoLang, JavaScript, Perl, Python, Ruby
+Perl, Python, Ruby, NodeJS, Bash, GoLang
 
 =item Web
 
@@ -133,11 +133,33 @@ Travel, Bicycle Racing
 
 =back
 
+=head1 Open Source Projects
+
+=over
+
+=item * L<YAML|http://yaml.org> -- Data Language for all programming languages
+
+=item * "TestMLL<http://testml.org> -- Testing Language for all programming languages
+
+=item * L<SchemaType|http://schematype.org> -- Schema Language for all data languages
+
+=item * L<Pegex|http://pegex.org> -- Parser framework for all programming languages
+
+=item * L<Jemplate|http://jemplate.net> -- Template language for all programming languages
+
+=item * CafeScript -- CoffeeScript that compiles to all programming languages
+
+=item * Lingy -- Lisp-like language in JSON that runs in all programming languages
+
+=back
+
 =head1 Recent News
 
 =over
 
-=item * August 2017 - Speaker at L<Abstractions|http://abstractions.io/>
+=item * June 2018 - Speaker at L<The Perl Conference|https://perlconference.us/tpc-2018-slc/>
+
+=item * June 2018 - Speaker at L<OpenWest|https://openwest.org/>
 
 =item * January 2017 - Speaker at L<Salt Lake Perl Mongers meeting|http://saltlake.pm.org/>
 
@@ -184,7 +206,8 @@ on ActiveState's Stackato PaaS.
 
 =head2 2009 - 2013: Oui Code Software, LLC - Seattle, WA
 
-A personal consulting business.
+A personal consulting business. Worked on ActiveState's Stackato PaaS
+platform.
 
 =head2 2003 - 2009: Socialtext, Inc - Palo Alto, CA
 
