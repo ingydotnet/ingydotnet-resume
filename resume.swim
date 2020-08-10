@@ -27,6 +27,7 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 * Creator of Pegex - PEG parsing framework for all languages
 * Creator of TestML - Elegant, data-driven testing for all languages
 * Creator of 2 popular git commands - `git hub` and `git subrepo`
+* Creator of MakePlus - Enhanced capabilities for GNU Make
 * Father of Acmeism - Philosophy of pushing all languages forward simultaneously
 * Opening Keynote Speaker @ OSDC 2010 in Melbourne
 * Given talks at over 50 open source related conferences and events around the world
@@ -43,7 +44,7 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 
 * Data :: YAML, JSON, SchemaType
 * Language :: Perl, Python, Ruby, NodeJS, Raku, Bash, Haskell, GoLang
-* Web :: CoffeeScript, Vue, Jemplate
+* Web :: CoffeeScript, Vue, Jemplate, Bootstrap
 * Social :: Acmeism, Wiki, GitHub
 * Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make, TestML
 * Privacy :: SSL, Tor, OTR, Signal
@@ -57,6 +58,7 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 * "SchemaType"[http://schematype.org] -- Schema Language for all data languages
 * "Pegex"[http://pegex.org] -- Parser framework for all programming languages
 * "Jemplate"[http://jemplate.net] -- Template language for all programming languages
+* "MakePlus"[http://makeplus.net] -- GNU Make enhanced
 * CafeScript -- CoffeeScript that compiles to all programming languages
 * Lingy -- Lisp-like language in JSON that runs in all programming languages
 
@@ -69,7 +71,7 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 * January 2017 - Speaker at "Salt Lake Perl Mongers meeting"[http://saltlake.pm.org/]
 * August 2016 - Presented a popular talk about YAML at the "Abstractions Conference"[http://abstractions.io/]
 * Summer 2016 - Started the "SchemaType validation and code generation project"[http://schematype.org]
-* May 2015 - Presented two talks at "OpenWest"[http://2015.openwest.org/] is Oren, UT
+* May 2015 - Presented two talks at "OpenWest"[http://2015.openwest.org/] in Orem, UT
 * June 2015 - Speaker at YAPC in Salt Lake City
 * November 2014 - "Opening Speaker at 2014 Pittsburgh Perl Workshop"[https://www.youtube.com/watch?v=vDRLIjojlhg]
 * October 2014

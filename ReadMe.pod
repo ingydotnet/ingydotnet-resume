@@ -55,6 +55,8 @@ C<ingydotnet>
 
 =item * Creator of 2 popular git commands - C<git hub> and C<git subrepo>
 
+=item * Creator of MakePlus - Enhanced capabilities for GNU Make
+
 =item * Father of Acmeism - Philosophy of pushing all languages forward simultaneously
 
 =item * Opening Keynote Speaker @ OSDC 2010 in Melbourne
@@ -85,7 +87,7 @@ C<ingydotnet>
 
 =item * Language :: Perl, Python, Ruby, NodeJS, Raku, Bash, Haskell, GoLang
 
-=item * Web :: CoffeeScript, Vue, Jemplate
+=item * Web :: CoffeeScript, Vue, Jemplate, Bootstrap
 
 =item * Social :: Acmeism, Wiki, GitHub
 
@@ -113,6 +115,8 @@ C<ingydotnet>
 
 =item * L<Jemplate|http://jemplate.net> -- Template language for all programming languages
 
+=item * L<MakePlus|http://makeplus.net> -- GNU Make enhanced
+
 =item * CafeScript -- CoffeeScript that compiles to all programming languages
 
 =item * Lingy -- Lisp-like language in JSON that runs in all programming languages
@@ -137,7 +141,7 @@ C<ingydotnet>
 
 =item * Summer 2016 - Started the L<SchemaType validation and code generation project|http://schematype.org>
 
-=item * May 2015 - Presented two talks at L<OpenWest|http://2015.openwest.org/> is Oren, UT
+=item * May 2015 - Presented two talks at L<OpenWest|http://2015.openwest.org/> in Orem, UT
 
 =item * June 2015 - Speaker at YAPC in Salt Lake City
 
