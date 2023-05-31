@@ -55,6 +55,10 @@ C<ingydotnet>
 
 =item * Creator of YAMLScript - An alternate Lingy syntax
 
+=item * Creator of PST - Package Manager for 42 Languages
+
+=item * Creator of BPAN - Bash Package Manager
+
 =item * Creator of Pegex - PEG parsing framework for all languages
 
 =item * Creator of SchemaType - A YAML/JSON Schema language for generating software
@@ -141,7 +145,9 @@ C<ingydotnet>
 
 =item * April 2023 - Attended the Perl Toolchain Summit in Lyon for core Perl work
 
-=item * November 2022- Created BPAN - A Bash Package Management system
+=item * November 2022 - Created BPAN - A Bash Package Management system
+
+=item * July 2022 - Created PST - Package Manager for 42 Languages
 
 =item * October 2021 - Released the YAML 1.2.2 spec (first revision in 12 years)
 

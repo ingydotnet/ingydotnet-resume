@@ -25,6 +25,8 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
   * Primary manager of the YAML language, projects and infrastructure
 * Creator of Lingy - A port of Clojure to various programming languages
 * Creator of YAMLScript - An alternate Lingy syntax
+* Creator of PST - Package Manager for 42 Languages
+* Creator of BPAN - Bash Package Manager
 * Creator of Pegex - PEG parsing framework for all languages
 * Creator of SchemaType - A YAML/JSON Schema language for generating software
 * Creator of TestML - Elegant, data-driven testing for all languages
@@ -69,7 +71,8 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 
 * July 2023 - Organizing the 2023 "Perl and Raku Conference"[https://tprc.to/] in Toronto
 * April 2023 - Attended the Perl Toolchain Summit in Lyon for core Perl work
-* November 2022- Created BPAN - A Bash Package Management system
+* November 2022 - Created BPAN - A Bash Package Management system
+* July 2022 - Created PST - Package Manager for 42 Languages
 * October 2021 - Released the YAML 1.2.2 spec (first revision in 12 years)
 * March 2020 - Leading the 2020 effort to deliver the next version (1.3) of the YAML spec
 * June 2019 - Speaker at "The Perl Conference"[https://perlconference.us/tpc-2019-pit/]
