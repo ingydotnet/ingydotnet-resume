@@ -14,7 +14,7 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 = Contact Information
 
 - *"email"[mailto:ingy@ingy.net]* :: `ingy@ingy.net`
-- *"github"[http://github.com/ingydotnet], "twitter"[https://twitter.com/ingydotnet], "skype"[skype:ingydotnet?call]* :: `ingydotnet`
+- *"github"[http://github.com/ingydotnet], "twitter"[https://twitter.com/ingydotnet], * :: `ingydotnet`
 - *mail*
     1122 E Pike St #721
     Seattle, WA 98122
@@ -22,9 +22,11 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 = Career Highlights
 
 * *Inventor of YAML* - The human friendly data format for all languages
-* Primary manager of the YAML language, projects and infrastructure
-* Creator of SchemaType - A YAML/JSON Schema language for generating software
+  * Primary manager of the YAML language, projects and infrastructure
+* Creator of Lingy - A port of Clojure to various programming languages
+* Creator of YAMLScript - An alternate Lingy syntax
 * Creator of Pegex - PEG parsing framework for all languages
+* Creator of SchemaType - A YAML/JSON Schema language for generating software
 * Creator of TestML - Elegant, data-driven testing for all languages
 * Creator of 2 popular git commands - `git hub` and `git subrepo`
 * Creator of MakePlus - Enhanced capabilities for GNU Make
@@ -42,8 +44,8 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 
 = Passions
 
-* Data :: YAML, JSON, SchemaType
-* Language :: Perl, Python, Ruby, NodeJS, Raku, Bash, Haskell, GoLang
+* Data :: YAML, JSON, SchemaType, YAMLScript
+* Language :: Perl, Python, Ruby, NodeJS, Clojure, Raku, Bash, Haskell
 * Web :: CoffeeScript, Vue, Jemplate, Bootstrap
 * Social :: Acmeism, Wiki, GitHub
 * Favorite Tools :: Vim, Git, Tmux, TT2, GNU Make, TestML
@@ -54,16 +56,21 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 = Open Source Projects
 
 * "YAML"[http://yaml.org] -- Data Language for all programming languages
+* Lingy -- Port of Clojure to all programming languages
+* YAMLScript -- Alternate YAML-based syntax for Clojure / Lingy
 * "TestML"[http://testml.org/playground/] -- Testing Language for all programming languages
 * "SchemaType"[http://schematype.org] -- Schema Language for all data languages
 * "Pegex"[http://pegex.org] -- Parser framework for all programming languages
 * "Jemplate"[http://jemplate.net] -- Template language for all programming languages
 * "MakePlus"[http://makeplus.net] -- GNU Make enhanced
 * CafeScript -- CoffeeScript that compiles to all programming languages
-* Lingy -- Lisp-like language in JSON that runs in all programming languages
 
 = Recent News
 
+* July 2023 - Organizing the 2023 "Perl and Raku Conference"[https://tprc.to/] in Toronto
+* April 2023 - Attended the Perl Toolchain Summit in Lyon for core Perl work
+* November 2022- Created BPAN - A Bash Package Management system
+* October 2021 - Released the YAML 1.2.2 spec (first revision in 12 years)
 * March 2020 - Leading the 2020 effort to deliver the next version (1.3) of the YAML spec
 * June 2019 - Speaker at "The Perl Conference"[https://perlconference.us/tpc-2019-pit/]
 * June 2018 - Speaker at "The Perl Conference"[https://perlconference.us/tpc-2018-slc/]
@@ -80,6 +87,11 @@ I've coined this effort: "Acmeism"[http://acmeism.org].
 * August 2014 - Set all time record for "most CPAN releases in a day"[http://blogs.perl.org/users/ingy_dot_net/2014/08/cpan-day---317-uploads-and-21-guns.html]
 
 = Employment History
+
+== 2020 - Present: Newfold Digital
+
+*Senior Principal Software Engineer.*
+Hosting orchestration for multiple web hosting brands.
 
 == 2018 - 2020: ZipRecruiter - Los Angeles, CA
 
