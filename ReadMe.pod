@@ -24,15 +24,13 @@ I've coined this effort: L<Acmeism|http://acmeism.org>.
 
 =over
 
-=item B<< L<email|mailto:ingy@ingy.net> >>
+=item B<GitHub:> L<https://github.com/ingydotnet>
 
-C<ingy@ingy.net>
+=item B<Email:> C<ingy@ingy.net>
 
-=item B<< L<github|http://github.com/ingydotnet>, L<twitter|https://twitter.com/ingydotnet>,  >>
+=item B<LinkedIn:> L<https://www.linkedin.com/in/ingy-d%C3%B6t-net-331541/>
 
-C<ingydotnet>
-
-=item B<mail>
+=item B<Mail:>
 
     1122 E Pike St #721
     Seattle, WA 98122
@@ -89,6 +87,7 @@ C<ingydotnet>
 
 =item * My first computer science class was Fortran on punchcards!
 
+
 =back
 
 =head1 Passions
@@ -110,6 +109,7 @@ C<ingydotnet>
 =item * Cloud :: Docker, OpenStack, Kubernetes, Ansible, Swagger
 
 =item * Offline :: Travel, Bicycle Racing
+
 
 =back
 
@@ -134,6 +134,7 @@ C<ingydotnet>
 =item * L<MakePlus|http://makeplus.net> -- GNU Make enhanced
 
 =item * CafeScript -- CoffeeScript that compiles to all programming languages
+
 
 =back
 
@@ -182,6 +183,7 @@ C<ingydotnet>
 =back
 
 =item * August 2014 - Set all time record for L<most CPAN releases in a day|http://blogs.perl.org/users/ingy_dot_net/2014/08/cpan-day---317-uploads-and-21-guns.html>
+
 
 =back
 
