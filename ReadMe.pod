@@ -24,11 +24,11 @@ I've coined this effort: L<Acmeism|http://acmeism.org>.
 
 =over
 
-=item B<GitHub:> L<https://github.com/ingydotnet>
+=item B<GitHub:> L<https://github.com/ingydotnet/>
 
 =item B<Email:> C<ingy@ingy.net>
 
-=item B<LinkedIn:> L<https://www.linkedin.com/in/ingy-d%C3%B6t-net-331541/>
+=item B<LinkedIn:> L<https://www.linkedin.com/|https://www.linkedin.com/in/ingy-d%C3%B6t-net-331541/>
 
 =item B<Mail:>
 
